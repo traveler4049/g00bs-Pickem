@@ -1,28 +1,26 @@
-import React from 'react'
-import { Link, useNavigate } from 'react-router-dom'
-import { useAuth } from '../../contexts/authContext'
-import { doSignOut } from '../../firebase/auth'
+import React from 'react';
+import { AppBar, Toolbar, Typography, Link } from '@mui/material';
 
 const Header = () => {
-    const navigate = useNavigate()
-    const { userLoggedIn } = useAuth()
-    return (
-        <nav className='flex flex-row gap-x-2 w-full z-20 fixed top-0 left-0 h-12 border-b place-content-center items-center bg-gray-200'>
-            {
-                userLoggedIn
-                    ?
-                    <>
-                        <button onClick={() => { doSignOut().then(() => { navigate('/login') }) }} className='text-sm text-blue-600 underline'>Logout</button>
-                    </>
-                    :
-                    <>
-                        <Link className='text-sm text-blue-600 underline' to={'/login'}>Login</Link>
-                        <Link className='text-sm text-blue-600 underline' to={'/register'}>Register New Account</Link>
-                    </>
-            }
+  return (
+    <AppBar position="static">
+      <Toolbar>
+        <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+          g00b Weekly Pick'em Challenge
+        </Typography>
+        <Link href="/submit-picks" color="inherit" sx={{ marginRight: 2 }}>
+          Submit Picks
+        </Link>
+        <Link href="/leaderboard" color="inherit" sx={{ marginRight: 2 }}>
+          Leaderboard
+        </Link>
+        <Link href="/games" color="inherit">
+          Games
+        </Link>
+      </Toolbar>
+    </AppBar>
+  );
+};
 
-        </nav>
-    )
-}
+export default Header;
 
-export default Header

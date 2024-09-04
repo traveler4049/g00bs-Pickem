@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Atlanta Falcons",
+        "away_team": "Tampa Bay Buccaneers",
+        "game_time": "2024-10-03 20:15:00 EDT"
+    },
+    {
+        "home_team": "Minnesota Vikings",
+        "away_team": "New York Jets",
+        "game_time": "2024-10-06 09:30:00 EDT"
+    },
+    {
+        "home_team": "Chicago Bears",
+        "away_team": "Carolina Panthers",
+        "game_time": "2024-10-06 13:00:00 EDT"
+    },
+    {
+        "home_team": "Cincinnati Bengals",
+        "away_team": "Baltimore Ravens",
+        "game_time": "2024-10-06 13:00:00 EDT"
+    },
+    {
+        "home_team": "New England Patriots",
+        "away_team": "Miami Dolphins",
+        "game_time": "2024-10-06 13:00:00 EDT"
+    },
+    {
+        "home_team": "Washington Commanders",
+        "away_team": "Cleveland Browns",
+        "game_time": "2024-10-06 13:00:00 EDT"
+    },
+    {
+        "home_team": "Jacksonville Jaguars",
+        "away_team": "Indianapolis Colts",
+        "game_time": "2024-10-06 13:00:00 EDT"
+    },
+    {
+        "home_team": "Houston Texans",
+        "away_team": "Buffalo Bills",
+        "game_time": "2024-10-06 13:00:00 EDT"
+    },
+    {
+        "home_team": "Denver Broncos",
+        "away_team": "Las Vegas Raiders",
+        "game_time": "2024-10-06 16:05:00 EDT"
+    },
+    {
+        "home_team": "San Francisco 49ers",
+        "away_team": "Arizona Cardinals",
+        "game_time": "2024-10-06 16:05:00 EDT"
+    },
+    {
+        "home_team": "Los Angeles Rams",
+        "away_team": "Green Bay Packers",
+        "game_time": "2024-10-06 16:25:00 EDT"
+    },
+    {
+        "home_team": "Seattle Seahawks",
+        "away_team": "New York Giants",
+        "game_time": "2024-10-06 16:25:00 EDT"
+    },
+    {
+        "home_team": "Pittsburgh Steelers",
+        "away_team": "Dallas Cowboys",
+        "game_time": "2024-10-06 20:20:00 EDT"
+    },
+    {
+        "home_team": "Kansas City Chiefs",
+        "away_team": "New Orleans Saints",
+        "game_time": "2024-10-07 20:15:00 EDT"
+    }
+]

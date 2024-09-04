@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Miami Dolphins",
+        "away_team": "Buffalo Bills",
+        "game_time": "2024-09-12 20:15:00 EDT"
+    },
+    {
+        "home_team": "Dallas Cowboys",
+        "away_team": "New Orleans Saints",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Detroit Lions",
+        "away_team": "Tampa Bay Buccaneers",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Green Bay Packers",
+        "away_team": "Indianapolis Colts",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Tennessee Titans",
+        "away_team": "New York Jets",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Minnesota Vikings",
+        "away_team": "San Francisco 49ers",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "New England Patriots",
+        "away_team": "Seattle Seahawks",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Washington Commanders",
+        "away_team": "New York Giants",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Carolina Panthers",
+        "away_team": "Los Angeles Chargers",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Jacksonville Jaguars",
+        "away_team": "Cleveland Browns",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Baltimore Ravens",
+        "away_team": "Las Vegas Raiders",
+        "game_time": "2024-09-15 13:00:00 EDT"
+    },
+    {
+        "home_team": "Arizona Cardinals",
+        "away_team": "Los Angeles Rams",
+        "game_time": "2024-09-15 16:05:00 EDT"
+    },
+    {
+        "home_team": "Denver Broncos",
+        "away_team": "Pittsburgh Steelers",
+        "game_time": "2024-09-15 16:25:00 EDT"
+    },
+    {
+        "home_team": "Kansas City Chiefs",
+        "away_team": "Cincinnati Bengals",
+        "game_time": "2024-09-15 16:25:00 EDT"
+    },
+    {
+        "home_team": "Houston Texans",
+        "away_team": "Chicago Bears",
+        "game_time": "2024-09-15 20:20:00 EDT"
+    },
+    {
+        "home_team": "Philadelphia Eagles",
+        "away_team": "Atlanta Falcons",
+        "game_time": "2024-09-16 20:15:00 EDT"
+    }
+]

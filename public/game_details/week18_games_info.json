@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Atlanta Falcons",
+        "away_team": "Carolina Panthers",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Dallas Cowboys",
+        "away_team": "Washington Commanders",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Denver Broncos",
+        "away_team": "Kansas City Chiefs",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Detroit Lions",
+        "away_team": "Minnesota Vikings",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Green Bay Packers",
+        "away_team": "Chicago Bears",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Tennessee Titans",
+        "away_team": "Houston Texans",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Indianapolis Colts",
+        "away_team": "Jacksonville Jaguars",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Las Vegas Raiders",
+        "away_team": "Los Angeles Chargers",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Los Angeles Rams",
+        "away_team": "Seattle Seahawks",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "New England Patriots",
+        "away_team": "Buffalo Bills",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "New York Jets",
+        "away_team": "Miami Dolphins",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Philadelphia Eagles",
+        "away_team": "New York Giants",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Arizona Cardinals",
+        "away_team": "San Francisco 49ers",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Pittsburgh Steelers",
+        "away_team": "Cincinnati Bengals",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "New Orleans Saints",
+        "game_time": "2025-01-05 00:00:00 EST"
+    },
+    {
+        "home_team": "Baltimore Ravens",
+        "away_team": "Cleveland Browns",
+        "game_time": "2025-01-05 00:00:00 EST"
+    }
+]

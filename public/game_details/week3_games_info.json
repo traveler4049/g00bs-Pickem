@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "New York Jets",
+        "away_team": "New England Patriots",
+        "game_time": "2024-09-19 20:15:00 EDT"
+    },
+    {
+        "home_team": "Cleveland Browns",
+        "away_team": "New York Giants",
+        "game_time": "2024-09-22 13:00:00 EDT"
+    },
+    {
+        "home_team": "Tennessee Titans",
+        "away_team": "Green Bay Packers",
+        "game_time": "2024-09-22 13:00:00 EDT"
+    },
+    {
+        "home_team": "Indianapolis Colts",
+        "away_team": "Chicago Bears",
+        "game_time": "2024-09-22 13:00:00 EDT"
+    },
+    {
+        "home_team": "Minnesota Vikings",
+        "away_team": "Houston Texans",
+        "game_time": "2024-09-22 13:00:00 EDT"
+    },
+    {
+        "home_team": "New Orleans Saints",
+        "away_team": "Philadelphia Eagles",
+        "game_time": "2024-09-22 13:00:00 EDT"
+    },
+    {
+        "home_team": "Pittsburgh Steelers",
+        "away_team": "Los Angeles Chargers",
+        "game_time": "2024-09-22 13:00:00 EDT"
+    },
+    {
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "Denver Broncos",
+        "game_time": "2024-09-22 13:00:00 EDT"
+    },
+    {
+        "home_team": "Las Vegas Raiders",
+        "away_team": "Carolina Panthers",
+        "game_time": "2024-09-22 16:05:00 EDT"
+    },
+    {
+        "home_team": "Seattle Seahawks",
+        "away_team": "Miami Dolphins",
+        "game_time": "2024-09-22 16:05:00 EDT"
+    },
+    {
+        "home_team": "Dallas Cowboys",
+        "away_team": "Baltimore Ravens",
+        "game_time": "2024-09-22 16:25:00 EDT"
+    },
+    {
+        "home_team": "Los Angeles Rams",
+        "away_team": "San Francisco 49ers",
+        "game_time": "2024-09-22 16:25:00 EDT"
+    },
+    {
+        "home_team": "Arizona Cardinals",
+        "away_team": "Detroit Lions",
+        "game_time": "2024-09-22 16:25:00 EDT"
+    },
+    {
+        "home_team": "Atlanta Falcons",
+        "away_team": "Kansas City Chiefs",
+        "game_time": "2024-09-22 20:20:00 EDT"
+    },
+    {
+        "home_team": "Buffalo Bills",
+        "away_team": "Jacksonville Jaguars",
+        "game_time": "2024-09-23 19:30:00 EDT"
+    },
+    {
+        "home_team": "Cincinnati Bengals",
+        "away_team": "Washington Commanders",
+        "game_time": "2024-09-23 20:15:00 EDT"
+    }
+]

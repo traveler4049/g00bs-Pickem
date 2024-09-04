@@ -1,0 +1,77 @@
+[
+    {
+        "home_team": "New York Jets",
+        "away_team": "Houston Texans",
+        "game_time": "2024-10-31 20:15:00 EDT"
+    },
+    {
+        "home_team": "Atlanta Falcons",
+        "away_team": "Dallas Cowboys",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Buffalo Bills",
+        "away_team": "Miami Dolphins",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Cincinnati Bengals",
+        "away_team": "Las Vegas Raiders",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Cleveland Browns",
+        "away_team": "Los Angeles Chargers",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Tennessee Titans",
+        "away_team": "New England Patriots",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Minnesota Vikings",
+        "away_team": "Indianapolis Colts",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "New York Giants",
+        "away_team": "Washington Commanders",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Carolina Panthers",
+        "away_team": "New Orleans Saints",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Baltimore Ravens",
+        "away_team": "Denver Broncos",
+        "game_time": "2024-11-03 13:00:00 EST"
+    },
+    {
+        "home_team": "Arizona Cardinals",
+        "away_team": "Chicago Bears",
+        "game_time": "2024-11-03 16:05:00 EST"
+    },
+    {
+        "home_team": "Green Bay Packers",
+        "away_team": "Detroit Lions",
+        "game_time": "2024-11-03 16:25:00 EST"
+    },
+    {
+        "home_team": "Seattle Seahawks",
+        "away_team": "Los Angeles Rams",
+        "game_time": "2024-11-03 16:25:00 EST"
+    },
+    {
+        "home_team": "Philadelphia Eagles",
+        "away_team": "Jacksonville Jaguars",
+        "game_time": "2024-11-03 20:20:00 EST"
+    },
+    {
+        "home_team": "Kansas City Chiefs",
+        "away_team": "Tampa Bay Buccaneers",
+        "game_time": "2024-11-04 20:15:00 EST"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Pittsburgh Steelers",
+        "away_team": "Kansas City Chiefs",
+        "game_time": "2024-12-25 13:00:00 EST"
+    },
+    {
+        "home_team": "Houston Texans",
+        "away_team": "Baltimore Ravens",
+        "game_time": "2024-12-25 16:30:00 EST"
+    },
+    {
+        "home_team": "Chicago Bears",
+        "away_team": "Seattle Seahawks",
+        "game_time": "2024-12-26 20:15:00 EST"
+    },
+    {
+        "home_team": "Cincinnati Bengals",
+        "away_team": "Denver Broncos",
+        "game_time": "2024-12-29 00:00:00 EST"
+    },
+    {
+        "home_team": "Los Angeles Rams",
+        "away_team": "Arizona Cardinals",
+        "game_time": "2024-12-29 00:00:00 EST"
+    },
+    {
+        "home_team": "New England Patriots",
+        "away_team": "Los Angeles Chargers",
+        "game_time": "2024-12-29 00:00:00 EST"
+    },
+    {
+        "home_team": "New York Giants",
+        "away_team": "Indianapolis Colts",
+        "game_time": "2024-12-29 00:00:00 EST"
+    },
+    {
+        "home_team": "Washington Commanders",
+        "away_team": "Atlanta Falcons",
+        "game_time": "2024-12-29 00:00:00 EST"
+    },
+    {
+        "home_team": "Buffalo Bills",
+        "away_team": "New York Jets",
+        "game_time": "2024-12-29 13:00:00 EST"
+    },
+    {
+        "home_team": "Minnesota Vikings",
+        "away_team": "Green Bay Packers",
+        "game_time": "2024-12-29 13:00:00 EST"
+    },
+    {
+        "home_team": "New Orleans Saints",
+        "away_team": "Las Vegas Raiders",
+        "game_time": "2024-12-29 13:00:00 EST"
+    },
+    {
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "Carolina Panthers",
+        "game_time": "2024-12-29 13:00:00 EST"
+    },
+    {
+        "home_team": "Jacksonville Jaguars",
+        "away_team": "Tennessee Titans",
+        "game_time": "2024-12-29 13:00:00 EST"
+    },
+    {
+        "home_team": "Philadelphia Eagles",
+        "away_team": "Dallas Cowboys",
+        "game_time": "2024-12-29 16:25:00 EST"
+    },
+    {
+        "home_team": "Cleveland Browns",
+        "away_team": "Miami Dolphins",
+        "game_time": "2024-12-29 20:20:00 EST"
+    },
+    {
+        "home_team": "San Francisco 49ers",
+        "away_team": "Detroit Lions",
+        "game_time": "2024-12-30 20:15:00 EST"
+    }
+]

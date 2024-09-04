@@ -1,0 +1,67 @@
+[
+    {
+        "home_team": "Detroit Lions",
+        "away_team": "Green Bay Packers",
+        "game_time": "2024-12-05 20:15:00 EST"
+    },
+    {
+        "home_team": "Tennessee Titans",
+        "away_team": "Jacksonville Jaguars",
+        "game_time": "2024-12-08 13:00:00 EST"
+    },
+    {
+        "home_team": "Miami Dolphins",
+        "away_team": "New York Jets",
+        "game_time": "2024-12-08 13:00:00 EST"
+    },
+    {
+        "home_team": "Minnesota Vikings",
+        "away_team": "Atlanta Falcons",
+        "game_time": "2024-12-08 13:00:00 EST"
+    },
+    {
+        "home_team": "New York Giants",
+        "away_team": "New Orleans Saints",
+        "game_time": "2024-12-08 13:00:00 EST"
+    },
+    {
+        "home_team": "Philadelphia Eagles",
+        "away_team": "Carolina Panthers",
+        "game_time": "2024-12-08 13:00:00 EST"
+    },
+    {
+        "home_team": "Pittsburgh Steelers",
+        "away_team": "Cleveland Browns",
+        "game_time": "2024-12-08 13:00:00 EST"
+    },
+    {
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "Las Vegas Raiders",
+        "game_time": "2024-12-08 13:00:00 EST"
+    },
+    {
+        "home_team": "Arizona Cardinals",
+        "away_team": "Seattle Seahawks",
+        "game_time": "2024-12-08 16:05:00 EST"
+    },
+    {
+        "home_team": "Los Angeles Rams",
+        "away_team": "Buffalo Bills",
+        "game_time": "2024-12-08 16:25:00 EST"
+    },
+    {
+        "home_team": "San Francisco 49ers",
+        "away_team": "Chicago Bears",
+        "game_time": "2024-12-08 16:25:00 EST"
+    },
+    {
+        "home_team": "Kansas City Chiefs",
+        "away_team": "Los Angeles Chargers",
+        "game_time": "2024-12-08 20:20:00 EST"
+    },
+    {
+        "home_team": "Dallas Cowboys",
+        "away_team": "Cincinnati Bengals",
+        "game_time": "2024-12-09 20:15:00 EST"
+    }
+]

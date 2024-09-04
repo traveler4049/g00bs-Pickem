@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Baltimore Ravens",
+        "away_team": "Cincinnati Bengals",
+        "game_time": "2024-11-07 20:15:00 EST"
+    },
+    {
+        "home_team": "Carolina Panthers",
+        "away_team": "New York Giants",
+        "game_time": "2024-11-10 09:30:00 EST"
+    },
+    {
+        "home_team": "Chicago Bears",
+        "away_team": "New England Patriots",
+        "game_time": "2024-11-10 13:00:00 EST"
+    },
+    {
+        "home_team": "Indianapolis Colts",
+        "away_team": "Buffalo Bills",
+        "game_time": "2024-11-10 13:00:00 EST"
+    },
+    {
+        "home_team": "Kansas City Chiefs",
+        "away_team": "Denver Broncos",
+        "game_time": "2024-11-10 13:00:00 EST"
+    },
+    {
+        "home_team": "New Orleans Saints",
+        "away_team": "Atlanta Falcons",
+        "game_time": "2024-11-10 13:00:00 EST"
+    },
+    {
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "San Francisco 49ers",
+        "game_time": "2024-11-10 13:00:00 EST"
+    },
+    {
+        "home_team": "Washington Commanders",
+        "away_team": "Pittsburgh Steelers",
+        "game_time": "2024-11-10 13:00:00 EST"
+    },
+    {
+        "home_team": "Jacksonville Jaguars",
+        "away_team": "Minnesota Vikings",
+        "game_time": "2024-11-10 13:00:00 EST"
+    },
+    {
+        "home_team": "Los Angeles Chargers",
+        "away_team": "Tennessee Titans",
+        "game_time": "2024-11-10 16:05:00 EST"
+    },
+    {
+        "home_team": "Dallas Cowboys",
+        "away_team": "Philadelphia Eagles",
+        "game_time": "2024-11-10 16:25:00 EST"
+    },
+    {
+        "home_team": "Arizona Cardinals",
+        "away_team": "New York Jets",
+        "game_time": "2024-11-10 16:25:00 EST"
+    },
+    {
+        "home_team": "Houston Texans",
+        "away_team": "Detroit Lions",
+        "game_time": "2024-11-10 20:20:00 EST"
+    },
+    {
+        "home_team": "Los Angeles Rams",
+        "away_team": "Miami Dolphins",
+        "game_time": "2024-11-11 20:15:00 EST"
+    }
+]

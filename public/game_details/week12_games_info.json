@@ -1,0 +1,67 @@
+[
+    {
+        "home_team": "Cleveland Browns",
+        "away_team": "Pittsburgh Steelers",
+        "game_time": "2024-11-21 20:15:00 EST"
+    },
+    {
+        "home_team": "Chicago Bears",
+        "away_team": "Minnesota Vikings",
+        "game_time": "2024-11-24 13:00:00 EST"
+    },
+    {
+        "home_team": "Indianapolis Colts",
+        "away_team": "Detroit Lions",
+        "game_time": "2024-11-24 13:00:00 EST"
+    },
+    {
+        "home_team": "Miami Dolphins",
+        "away_team": "New England Patriots",
+        "game_time": "2024-11-24 13:00:00 EST"
+    },
+    {
+        "home_team": "New York Giants",
+        "away_team": "Tampa Bay Buccaneers",
+        "game_time": "2024-11-24 13:00:00 EST"
+    },
+    {
+        "home_team": "Washington Commanders",
+        "away_team": "Dallas Cowboys",
+        "game_time": "2024-11-24 13:00:00 EST"
+    },
+    {
+        "home_team": "Carolina Panthers",
+        "away_team": "Kansas City Chiefs",
+        "game_time": "2024-11-24 13:00:00 EST"
+    },
+    {
+        "home_team": "Houston Texans",
+        "away_team": "Tennessee Titans",
+        "game_time": "2024-11-24 13:00:00 EST"
+    },
+    {
+        "home_team": "Las Vegas Raiders",
+        "away_team": "Denver Broncos",
+        "game_time": "2024-11-24 16:05:00 EST"
+    },
+    {
+        "home_team": "Green Bay Packers",
+        "away_team": "San Francisco 49ers",
+        "game_time": "2024-11-24 16:25:00 EST"
+    },
+    {
+        "home_team": "Seattle Seahawks",
+        "away_team": "Arizona Cardinals",
+        "game_time": "2024-11-24 16:25:00 EST"
+    },
+    {
+        "home_team": "Los Angeles Rams",
+        "away_team": "Philadelphia Eagles",
+        "game_time": "2024-11-24 20:20:00 EST"
+    },
+    {
+        "home_team": "Los Angeles Chargers",
+        "away_team": "Baltimore Ravens",
+        "game_time": "2024-11-25 20:15:00 EST"
+    }
+]
